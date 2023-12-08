@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net7.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/1b5803a2-6207-413c-abad-9251bca859cf/resourceGroups/Aula/providers/Microsoft.Web/sites/projeto-luana-2023"
+}
